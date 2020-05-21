@@ -51,7 +51,7 @@
   
 + 模型架构
   
-  + ![1590067197(1)](image\1590070582(1).png)
+  + ![1590067123(1)](https://github.com/kungfulei/NER_BiLSTM_IDCNN_CRF/blob/master/image/1590070582(1).png)
   
 + 对文本使用卷集的维度表示：
   + 对文本做卷集时候，可以把文本看成高度为1的图片。图像的输入一般为4维，而文本的输入为3维度，所以首先要对文本输入维度进行扩维，一般在第一个维度进行。model_inputs = tf.expand_dims(model_inputs, 1)。
