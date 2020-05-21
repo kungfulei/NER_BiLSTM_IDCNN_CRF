@@ -19,7 +19,7 @@
 ## BiLstm+ CRF
 
 + 模型架构
-  + ![1590067197(1)](image\1590067343(1).png)
+  + ![1590067197(1)](https://github.com/kungfulei/NER_BiLSTM_IDCNN_CRF/blob/master/image/1590067343(1).png)
   + 
 
 ## idcnn
