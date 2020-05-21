@@ -20,11 +20,11 @@
 
 + 模型架构
 <<<<<<< HEAD
-  + ![1590067197(1)](image\1590067343(1).png)
+  
 =======
   + ![1590067197(1)](https://github.com/kungfulei/NER_BiLSTM_IDCNN_CRF/blob/master/image/1590067343(1).png)
   + 
->>>>>>> 8525d134e12b6b296d5d4a493261d2b96e4d9701
+
 
 ## IDCNN+CRF
 
